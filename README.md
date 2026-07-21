@@ -29,6 +29,16 @@ This repository contains my daily tasks and learning progress from the Codomax D
 - Created DataFrames
 - Loaded and explored datasets
 - Viewed rows, columns and dataset information
+  
+- ### Day 5 - Data Cleaning
+
+- Imported the Pandas library
+- Created and worked with a student dataset using DataFrame
+- Explored the dataset using `head()`, `tail()`, `info()`, and `describe()`
+- Checked for missing values
+- Removed duplicate records
+- Filled missing values where required
+- Prepared the dataset for data visualization and machine learning
 
 ## Technologies Used
 - Python
