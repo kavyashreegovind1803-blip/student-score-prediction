@@ -30,7 +30,7 @@ This repository contains my daily tasks and learning progress from the Codomax D
 - Loaded and explored datasets
 - Viewed rows, columns and dataset information
   
-- ### Day 5 - Data Cleaning
+ ### Day 5 - Data Cleaning
 
 - Imported the Pandas library
 - Created and worked with a student dataset using DataFrame
