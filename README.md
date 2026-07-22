@@ -39,6 +39,15 @@ This repository contains my daily tasks and learning progress from the Codomax D
 - Removed duplicate records
 - Filled missing values where required
 - Prepared the dataset for data visualization and machine learning
+  
+ ### Day 6 - Data Visualization
+
+- Imported Matplotlib and Pandas libraries
+- Created visualizations using a student score dataset
+- Generated Line Chart to analyze study hours vs scores
+- Generated Bar Chart to compare student performance
+- Created Scatter Plot to observe the relationship between study hours and scores
+- Understood how data visualization helps identify patterns before building a Machine Learning model
 
 ## Technologies Used
 - Python
