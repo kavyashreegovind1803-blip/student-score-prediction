@@ -167,8 +167,6 @@ Student-Score-Prediction/
 └── README.md
 ```
 
----
-
 # 🚀 Features
 
 - Data Analysis using Pandas
@@ -237,5 +235,7 @@ Bengaluru, Karnataka
 **Codomax AI & Machine Learning Internship**
 
 ---
+⭐ *This project represents my learning journey in Artificial Intelligence and Machine Learning through hands-on implementation of the complete machine learning workflow.*
+
 
 ⭐ *This project represents my learning journey in Artificial Intelligence and Machine Learning through hands-on implementation of the complete machine learning workflow.*
