@@ -229,13 +229,10 @@ SVR College of Commerce and Management Studies
 Bengaluru, Karnataka
 
 ---
-
-# 🏢 Internship
+ 🏢 Internship
 
 **Codomax AI & Machine Learning Internship**
 
 ---
 ⭐ *This project represents my learning journey in Artificial Intelligence and Machine Learning through hands-on implementation of the complete machine learning workflow.*
 
-
-⭐ *This project represents my learning journey in Artificial Intelligence and Machine Learning through hands-on implementation of the complete machine learning workflow.*
