@@ -100,5 +100,23 @@ Throughout the internship, I gained practical experience in Python programming, 
 - Linear Regression Basics
 
 ---
+
+## ✅ Day 8 – Model Building
+
+- Dataset Preparation
+- Feature Selection
+- Model Training
+- Linear Regression Implementation
+
+---
+
+## ✅ Day 9 – Prediction
+
+- Generated Predictions using the Trained Model
+- Predicted Student Scores for Different Study Hours
+- Implemented Prediction Workflow
+
+---
+
 dent Score Prediction system using Linear Regression.
 
