@@ -118,5 +118,24 @@ Throughout the internship, I gained practical experience in Python programming, 
 
 ---
 
+
+## ✅ Day 10 – Model Evaluation
+
+- Evaluated Model Performance
+- Calculated Mean Absolute Error (MAE)
+- Calculated Mean Squared Error (MSE)
+- Calculated R² Score
+
+---
+
+## ✅ Day 11 – Prediction Application
+
+- Developed a Console-Based Student Score Prediction Application
+- Accepted User Input
+- Predicted Student Scores Based on Study Hours
+
+---
+
+
 dent Score Prediction system using Linear Regression.
 
