@@ -220,9 +220,6 @@ Student-Score-Prediction/
 ├── DAY9.ipynb
 ├── DAY10.ipynb
 ├── DAY11.ipynb
-├── DAY12.ipynb
-├── DAY13.ipynb
-├── DAY14.ipynb
 └── README.md
 ```
 
