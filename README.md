@@ -153,7 +153,7 @@ Throughout the internship, I gained practical experience in Python programming, 
 - Organized GitHub Repository
 - Uploaded the Complete Project to GitHub
 
----
+ ---
 
 ## ✅ Day 14 – Final Project Submission
 
@@ -221,7 +221,6 @@ Student-Score-Prediction/
 ├── DAY10.ipynb
 ├── DAY11.ipynb
 └── README.md
-```
 
 ---
 
@@ -306,3 +305,4 @@ Bengaluru, Karnataka
 ## ⭐ Acknowledgement
 
 This project was completed as part of the **Codomax AI & Machine Learning Internship**. It reflects my learning journey in Python, Data Analysis, Data Visualization, and Machine Learning through hands-on implementation of a complete Student Score Prediction system using Linear Regression.
+
