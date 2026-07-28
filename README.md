@@ -295,5 +295,5 @@ Bengaluru, Karnataka
 
 This project was completed as part of the **Codomax Digital Solutions AI & Machine Learning Internship**. It reflects my learning journey in Python, Data Analysis, Data Visualization, and Machine Learning through hands-on implementation of a complete Student Score Prediction system using Linear Regression.
 
-## ⭐ If you found this project useful, consider giving it a star on GitHub!
+
 
