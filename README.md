@@ -240,6 +240,16 @@ The model was evaluated using:
 These metrics were used to measure prediction accuracy and overall model performance.
 
 ---
+## 📸 Project Screenshots
+
+### Day 8 Output
+![Day 8 Output](day8_output.png)
+
+### Day 9 Output
+![Day 9 Output](day9_output.png)
+
+### Day 11 Output
+![Day 11 Output](day11_output.png)
 
 # 🎓 Learning Outcomes
 
